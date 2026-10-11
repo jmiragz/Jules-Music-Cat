@@ -1,0 +1,13 @@
+# build output (the exe goes on the github releases page instead)
+build/
+dist/
+*.spec
+
+# python junk
+__pycache__/
+*.pyc
+
+# my own scratch files
+_backups/
+*.bak*
+*.precomment
