@@ -6,6 +6,10 @@ The window title becomes "*YourName* Music Cat" once you type your name in setup
 
 ![Music Cat main window](screenshots/main-window.png)
 
+When everything finishes you get a little toast:
+
+![All clean toast](screenshots/all-clean-toast.png)
+
 ## What it does
 
 1. Drop new music files into your **New** folder.
